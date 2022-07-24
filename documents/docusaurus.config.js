@@ -9,7 +9,7 @@ const config = {
   title: 'Utils',
   tagline: 'onkz481 utilities.',
   url: 'https://onkz481.github.io',
-  baseUrl: '/utils/documents/',
+  baseUrl: '/utils/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
