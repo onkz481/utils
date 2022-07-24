@@ -1,0 +1,28 @@
+{
+  "name": "@onkz481/conditionals",
+  "version": "1.0.0",
+  "description": "Conditional expressions.",
+  "main": "dist/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "run-p build:*",
+    "build:common": "tsc",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "test": "jest",
+    "lint": "run-s lint:*",
+    "lint:eslint": "eslint . --ext .ts,.tsx --fix",
+    "lint:prettier": "prettier --write .",
+    "prepare": "simple-git-hooks",
+    "typedoc": "typedoc --out ./docs ./src"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  }
+}

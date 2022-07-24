@@ -1,0 +1,11 @@
+{
+  "extends": ".",
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "module": "ESNext",
+    "outDir": "dist/esm"
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", "src/bin", "src/**/__tests__/*"]
+}
