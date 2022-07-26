@@ -1,0 +1,10 @@
+{
+  "position": 1,
+  "label": "Conditionals",
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Conditionals",
+    "description": "This is a set of functions for generic conditional expressions."
+  }
+}
