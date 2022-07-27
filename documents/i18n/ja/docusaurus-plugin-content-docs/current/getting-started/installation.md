@@ -8,10 +8,10 @@ title: インストール
 
 各パッケージは`npm`を使用してインストールできます。
 
-```sh
+```bash
 npm i -D @onkz481/<パッケージ名>
 ```
 
 また、現在実装されているパッケージは以下のとおりです。
 
-- @onkz481/conditionals
+- [@onkz481/conditionals](../category/conditionals)

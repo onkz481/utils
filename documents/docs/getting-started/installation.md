@@ -8,10 +8,10 @@ This is a package library of functions or variables that is independent of other
 
 Each package can be installed using `npm`.
 
-```sh
+```bash
 npm i -D @onkz481/<package name>
 ```
 
 In addition, the packages currently implemented are as follows.
 
-- @onkz481/conditionals
+- [@onkz481/conditionals](../category/conditionals)
