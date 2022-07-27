@@ -1,9 +1,9 @@
 {
   "position": 2,
-  "label": "Utilities",
+  "label": "Packages",
   "collapsible": true,
   "link": {
     "type": "generated-index",
-    "title": "Utilities"
+    "title": "Packages"
   }
 }
