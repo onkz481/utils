@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Utils',
-  tagline: 'onkz481 utilities.',
+  title: '481 Utils',
+  tagline: 'A collection of simple utility functions',
   url: 'https://onkz481.github.io',
   baseUrl: '/utils/',
   onBrokenLinks: 'throw',
@@ -55,7 +55,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'onkz481/utils',
+        title: '481 utils',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
