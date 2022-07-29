@@ -1,12 +1,6 @@
----
-title: Installation
----
+# Installation
 
-This is a package library of functions or variables that is independent of other projects.
-
-## Package installation
-
-Each package can be installed using `npm`.
+All packages can be installed individually using `npm`.
 
 ```bash
 npm i -D @onkz481/<package name>
