@@ -4,7 +4,7 @@ import base from '../../jest.config';
 
 const config: Config.InitialOptions = {
   ...base,
-  displayName: 'conditionals',
+  displayName: 'utils-is',
   testMatch: ['**/__tests__/*.+(ts|js)'],
 };
 

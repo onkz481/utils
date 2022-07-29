@@ -1,5 +1,5 @@
 {
-  "name": "@onkz481/conditionals",
+  "name": "@onkz481/utils-is",
   "version": "1.0.0",
   "description": "Conditional expressions.",
   "main": "dist/cjs/index.js",

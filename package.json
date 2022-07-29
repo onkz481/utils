@@ -8,7 +8,7 @@
     "pre-commit": "npm test && npm run lint"
   },
   "workspaces": [
-    "packages\\conditionals"
+    "packages\\utils-is"
   ],
   "devDependencies": {
     "@jest/types": "^28.1.3",
