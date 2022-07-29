@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Getting Started": {
+    "message": "はじめましょう",
+    "description": "The label for category Getting Started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Packages": {
+    "message": "パッケージ一覧",
+    "description": "The label for category Packages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Packages.link.generated-index.title": {
+    "message": "パッケージの一覧",
+    "description": "The generated-index page title for category Packages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Conditionals": {
+    "message": "Conditionals",
+    "description": "The label for category Conditionals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Conditionals.link.generated-index.title": {
+    "message": "Conditionals",
+    "description": "The generated-index page title for category Conditionals in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Conditionals.link.generated-index.description": {
+    "message": "これは、一般的なIS関数のセットです。",
+    "description": "The generated-index page description for category Conditionals in sidebar tutorialSidebar"
+  }
+}
