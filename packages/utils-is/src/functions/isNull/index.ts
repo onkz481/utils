@@ -1,6 +1,3 @@
-// types
-import { all } from 'types';
-
-export function isNull(v: all): boolean {
+export function isNull(v: any): boolean {
   return v === undefined || v === null;
 }

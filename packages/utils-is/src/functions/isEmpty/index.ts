@@ -1,9 +1,6 @@
-// types
-import { all } from 'types';
-
 import { isNull } from '../isNull';
 
-export function isEmpty(v: all): boolean {
+export function isEmpty(v: any): boolean {
   if (isNull(v)) return true;
 
   if (Array.isArray(v) && v.length === 0) return true;

@@ -1,7 +1,4 @@
-// types
-import { all } from 'types';
-
-export function isString(v: all) {
+export function isString(v: any) {
   if (typeof v === 'string') return true;
 
   return false;

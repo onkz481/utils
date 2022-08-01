@@ -1,9 +1,6 @@
-// types
-import { all } from 'types';
-
 import { isNull } from '../isNull';
 
-export function isNumeric(v: all) {
+export function isNumeric(v: any) {
   if (isNull(v)) return false;
 
   if (typeof v === 'object') return false;

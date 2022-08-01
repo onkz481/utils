@@ -1,6 +1,3 @@
-// types
-import { all } from 'types';
-
-export function isBool(v: all) {
+export function isBool(v: any) {
   return typeof v === 'boolean';
 }

@@ -1,7 +1,4 @@
-// types
-import { all } from 'types';
-
-export function isInt(v: all) {
+export function isInt(v: any) {
   if (typeof v !== 'number') return false;
 
   const IS_INT = isFinite(v) && Math.floor(v) === v;

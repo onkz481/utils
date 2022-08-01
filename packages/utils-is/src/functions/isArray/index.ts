@@ -1,6 +1,3 @@
-// types
-import { all } from 'types';
-
-export function isArray(v: all) {
+export function isArray(v: any) {
   return Object.prototype.toString.call(v) === '[object Array]';
 }
