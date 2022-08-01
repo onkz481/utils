@@ -15,16 +15,12 @@
     "message": "パッケージの一覧",
     "description": "The generated-index page title for category Packages in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Conditionals": {
-    "message": "Conditionals",
-    "description": "The label for category Conditionals in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.utils-is": {
+    "message": "utils-is",
+    "description": "The label for category utils-is in sidebar tutorialSidebar"
   },
-  "sidebar.tutorialSidebar.category.Conditionals.link.generated-index.title": {
-    "message": "Conditionals",
-    "description": "The generated-index page title for category Conditionals in sidebar tutorialSidebar"
-  },
-  "sidebar.tutorialSidebar.category.Conditionals.link.generated-index.description": {
-    "message": "これは、一般的なIS関数のセットです。",
-    "description": "The generated-index page description for category Conditionals in sidebar tutorialSidebar"
+  "sidebar.tutorialSidebar.category.utils-is.link.generated-index.title": {
+    "message": "utils-is",
+    "description": "The generated-index page title for category utils-is in sidebar tutorialSidebar"
   }
 }

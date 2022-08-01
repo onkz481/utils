@@ -8,4 +8,4 @@ npm i -D @onkz481/<パッケージ名>
 
 また、現在実装されているパッケージは以下のとおりです。
 
-- [@onkz481/conditionals](../category/conditionals)
+- [@onkz481/utils-is](../category/utils-is)

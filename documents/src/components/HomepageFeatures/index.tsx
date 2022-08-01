@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, Png, description }: FeatureItem) {
   return (
-    <Link className={clsx('col col--6')} to="/docs/category/conditionals">
+    <Link className={clsx('col col--6')} to="/docs/category/utils-is">
       <div className="text--center">
         <img src={Png} style={{ maxWidth: '384px' }} />
       </div>
