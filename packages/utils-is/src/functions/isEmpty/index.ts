@@ -1,5 +1,5 @@
 // types
-import { all } from '../../types';
+import { all } from 'types';
 
 import { isNull } from '../isNull';
 

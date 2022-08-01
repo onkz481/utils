@@ -1,5 +1,5 @@
 // types
-import { all } from '../../types';
+import { all } from 'types';
 
 export function isInt(v: all) {
   if (typeof v !== 'number') return false;
