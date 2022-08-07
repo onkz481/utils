@@ -1,0 +1,9 @@
+{
+  "position": 1,
+  "label": "functions",
+  "collapsible": true,
+  "link": {
+    "type": "generated-index",
+    "title": "functions"
+  }
+}
