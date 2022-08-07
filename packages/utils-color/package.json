@@ -1,0 +1,40 @@
+{
+  "name": "@onkz481/utils-color",
+  "version": "1.0.0",
+  "description": "A set of color functions and variables.",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    "import": "./dist/esm/index.js",
+    "require": "./dist/cjs/index.js"
+  },
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "run-p build:*",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "build:umd": "webpack",
+    "test": "jest",
+    "lint": "run-s lint:*",
+    "lint:eslint": "eslint . --ext .ts,.tsx --fix",
+    "lint:prettier": "prettier --write .",
+    "prepare": "simple-git-hooks",
+    "typedoc": "typedoc --out ./docs ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkz481/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkz481/utils/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
