@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://onkz481.github.io/utils/ja/blog</id>
+    <title>481 Utils Blog</title>
+    <updated>2022-08-07T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://onkz481.github.io/utils/ja/blog"/>
+    <subtitle>481 Utils Blog</subtitle>
+    <icon>https://onkz481.github.io/utils/ja/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ドキュメントの目的]]></title>
+        <id>/2022/08/07/post</id>
+        <link href="https://onkz481.github.io/utils/ja/blog/2022/08/07/post"/>
+        <updated>2022-08-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[このドキュメントで説明するパッケージは、個人的に'あるといいな'と思った関数や定数を種別ごとにパッケージ化し、外部パッケージとして使用できるようにすることを目的としています。]]></summary>
+        <content type="html"><![CDATA[<p>このドキュメントで説明するパッケージは、個人的に'あるといいな'と思った関数や定数を種別ごとにパッケージ化し、外部パッケージとして使用できるようにすることを目的としています。</p>]]></content>
+        <author>
+            <name>onkz481</name>
+            <uri>https://github.com/onkz481</uri>
+        </author>
+    </entry>
+</feed>

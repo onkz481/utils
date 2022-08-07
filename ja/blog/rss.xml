@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>481 Utils Blog</title>
+        <link>https://onkz481.github.io/utils/ja/blog</link>
+        <description>481 Utils Blog</description>
+        <lastBuildDate>Sun, 07 Aug 2022 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[ドキュメントの目的]]></title>
+            <link>https://onkz481.github.io/utils/ja/blog/2022/08/07/post</link>
+            <guid>/2022/08/07/post</guid>
+            <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[このドキュメントで説明するパッケージは、個人的に'あるといいな'と思った関数や定数を種別ごとにパッケージ化し、外部パッケージとして使用できるようにすることを目的としています。]]></description>
+            <content:encoded><![CDATA[<p>このドキュメントで説明するパッケージは、個人的に'あるといいな'と思った関数や定数を種別ごとにパッケージ化し、外部パッケージとして使用できるようにすることを目的としています。</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
